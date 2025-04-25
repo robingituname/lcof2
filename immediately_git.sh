@@ -1,8 +1,7 @@
 #!/bin/bash
 echo 'start'
 pwd
-echo 'git pull origin main'
-git pull origin main
+
 
 echo 'git status'
 git status
